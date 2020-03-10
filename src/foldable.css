@@ -1,0 +1,24 @@
+.foldable {
+    margin: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+.foldable .operator {
+    display: flex;
+    justify-content: space-between;
+}
+
+.foldable h2 {
+    display: inline-block;
+}
+
+
+.foldable .expand *{
+    transition: 1s;
+}
+
+.foldable p {
+    z-index: -1;
+}

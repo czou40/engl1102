@@ -1,0 +1,63 @@
+.card {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    text-shadow: 0 0 5px #333333;
+}
+
+.card > .img {
+    position: absolute;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 0;
+}
+
+.description-box > .info {
+    box-sizing: border-box;
+    position: absolute;
+    margin: 0;
+    padding: 25px 25px 25px 25px;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    background: linear-gradient(rgba(0,0,0,0), rgb(0, 0, 0));
+    color: #efefef;
+    transform: translateY(100%);
+    z-index: 5;
+}
+
+.description-box > .info:hover {
+    transform: translateY(0px);
+}
+
+
+.description-box > .more {
+    display: block;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    opacity: 1.0;
+    color: #efefef;
+    z-index: 10;
+}
+
+.description-box {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    z-index: 20;
+}
+.description-box:hover > .more{
+    opacity: 0.0;
+ }
+
+.description-box > .more:hover  + .info {
+    transform: translateY(0px);
+}
