@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2a41b98-8a8d-4691-8d94-373b297bfc42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CMRotate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/IMG_0570.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +98,7 @@
       <workItem from="1583715097458" duration="27379000" />
       <workItem from="1583784101588" duration="19198000" />
       <workItem from="1583860795090" duration="625000" />
-      <workItem from="1583863486567" duration="14959000" />
+      <workItem from="1583863486567" duration="15464000" />
     </task>
     <servers />
   </component>
@@ -103,10 +110,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583710214201" />
-    <state x="464" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583738403946">
+    <state x="464" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583901732260">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="464" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1583738403946" />
+    <state x="464" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1583901732260" />
     <state x="0" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583449216747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

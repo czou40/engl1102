@@ -18,9 +18,6 @@ Rotate js using CSS translate3d and transition
 ### Usage
 
 Download the js file and include it in your html.
-```html
-    <script type="text/javascript" src="CMRotate.js"></script>
-```
 
 Add CMRotate.init function in your Javascript code.
 ```js
