@@ -6,9 +6,9 @@ body {
 #particle-wrapper {
     position: fixed;
     left: 0;
-    right: 0;
     top: 0;
-    bottom: 0;
+    width: 100%;
+    height:100%;
     background-color: #333333;
     z-index: -30;
 }
@@ -96,10 +96,14 @@ body {
     color: #333;
 }
 
+.white-section {
+    background-color: #efefef;
+    color: #333333;
+    padding: 24px 5vw 24px 5vw;
+}
+
 #about {
     box-sizing: border-box;
-    padding: 24px 5vw 24px 5vw;
-    background-color: #efefef;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -127,7 +131,7 @@ video {
     max-height: 40vh;
 }
 
-#growth {
+.black-section {
     background-color: transparent;
     color: #ffffff;
     padding: 24px 5vw 24px 5vw;
