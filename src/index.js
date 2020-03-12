@@ -23,52 +23,52 @@ var section3 = "The greatest enhancement in my visual communication came as more
 var section4 = "Before taking this class, I had little experience in visual communication except in computer multimedia design. I was bad at drawing, too. However, I managed to draw pictures that increasingly reflect the central ideas of the readings and my central ideas. There are two big takeaways from this class: First things first, always try different things. I would not have improved my communication skills so much if I were not open to changes in genre and techniques. Also, if your drawing reflects you as a real person, then there is no such thing as a bad drawing. Drawing is by no means created just to be realistic, rather, it is served as a way for us to think, to grasp, to connect our sense with our mind, and to bridge the gap between us and the real world.";
 var images = [];
 images.push({
-    file: "0.png",
+    file: "0.jpg",
     title: "1/17 Syllabus",
     description: "This is an attempt to do the practice activities in the book. I draw 14 pictures with different themes. Some of them were illustrations from the book. Some were merely practices. (The second row is a story that was partially based on my experience but was illustrated in an extremely exaggerated way. I especially like the picture of the guy being splashed water on his face, which is hilarious)."
 });
 images.push({
-    file: "1.png",
+    file: "1.jpg",
     title: "1/22 Syllabus",
     description: "My initial attempt to summarize the central ideas of the readings. I wrote down important ideas I learned from the book, such as the interconnection among the concept “imitation”, “memorization”, and “concentration”. I drew these concepts in nodes and connected them in a that resembles a “circular linked list”."
 });
 images.push({
-    file: "2.png",
+    file: "2.jpg",
     title: "1/27 Unflattening",
     description: "This painting takes a minimalist approach since all figures were drawn using just a circle and a pentagram and all things were represented using their most basic shapes. There were several roads along which there were cookie-cutter factories that either serve verify machine quality or modify human brains. On the road, there is a phrase that reads “GREAT Unification of Thought”. Obviously, this is an irony that modern society discourages people from embracing new perspectives and deprives human beings of creativity. Although many of the elements such as a brain modifying factory were not something the Farinella mentioned, I included them in my picture to make the ideas the author wants to convey more self-evident."
 });
 images.push({
-    file: "3.png",
+    file: "3.jpg",
     title: "1/31 Unflattening",
     description: "This is one of the works I love the best. I applied the “3 to 5 ratio” from “Where to Put the Cow” (this reading has a deep influence on my work) that I learned in class to my work, and I presented a sculpture of a thinker in the most visible position. I also used the contrast of colors in drawing a man with a brush. I wrote down my summary of the book very accurately, too."
 });
 images.push({
-    file: "4.png",
+    file: "4.jpg",
     title: "2/5 Unflattening",
     description: "My drawing of the puppet person for the 2/5 reading is both realistic and abstract. For one thing, my imitation of the puppet almost perfectly resembles the original drawing: different parts of his body harmonized in color and proportion. Meanwhile, for the first time, I became able to summarize the readings by drawing symbolizing imageries. I also drew a map of Manhattan with different subway routes connecting one point to the other to illustrate the concept that “there is not a single way”."
 });
 images.push({
-    file: "5.png",
+    file: "5.jpg",
     title: "2/6 Unflattening & It All Started From Drawing",
     description: "This sketch note is a picture of a sailor observing the forces in nature represented in the form of vectors. I was good at combining the readings from Unflattening and It All Started from Drawing together by integrating some pictures of black holes into my work. I also combined some other elements such as footprints to illustrate how we as human beings explore the world. Lastly, I included a very important quotation from the book that thoroughly inspires my future work."
 });
 images.push({
-    file: "6.png",
+    file: "6.jpg",
     title: "2/12 Silver Wire",
     description: "This is one of the few sketch notes where I wrote down a lot of words. As a result, I had to make the most use of the space that was available to me. I decided to include pictures of those who sacrificed themselves for the advancement of medicine, such as the woman slave who received more than 30 operations. I made several adaptations due to the space issue, such as changing the position of Galen with respect to his patient. This was the first time I made such a modification. "
 });
 images.push({
-    file: "7.png",
+    file: "7.jpg",
     title: "2/17 Lost at Sea",
     description: "In the sketch note for Lost at Sea, I made an audacious decision to make my drawing as exaggerated as possible. I drew a huge wave that is hundreds of inches tall and a boat full of refugees that sits at the crest. Many people are falling from the boat as if they are falling from the cliff into the abyss. More crazily, I drew a hand reaching from the sky that catches the refugees. There were no such imageries in the original comic, but I found it meaningful to do some derivative work. By including imaginative and unrealistic elements, I found a new way to engage the audience and make my sketch note outstanding."
 });
 images.push({
-    file: "8.png",
+    file: "8.jpg",
     title: "2/21 It's Time to Rethink How Recycling is Done, Who Owns an Asteroid? & Locked Out",
     description: "I invented a new approach to organizing the information to help my reader quickly grasp the general idea. I divided my sketch note into four sections, in which three summarized the general ideas of three comics we read. The fourth section lies at the center, where I wrote down the relations between the three comics.  I carefully picked and reproduced imageries from each comic and introduced a question. The question greatly helped raise concerns to my reader."
 });
 images.push({
-    file: "9.png",
+    file: "9.jpg",
     title: "2/26 Americans Are Drowning in Debt & Lighten Up",
     description: "In this work, I used many symbols to personify embody serious social problems. For example, I drew two sinister snakes with long teeth, implying how venomous debt is to a regular American family. I also draw a picture of a twin lever that depicts how the privileged surreptitiously exploit the working class. I also included my favorite sentences from the reading that both summarize the general idea and grab my readers’ attention. "
 });
@@ -141,7 +141,7 @@ ReactDOM.render(
             <h1>My Artifacts</h1>
             <p>Move mouse to both sides to navigate between artifacts. Move mouse to the bottom for more details. </p>
         </div>
-        <Plane images={images}/>
+        <Plane images={images} data-aos="flip-right"/>
         <div className="black-section" id="future" data-aos="flip-down">
             <h1>Future Work</h1>
             <p>Visual communication is not just in the form of drawings, and it encompasses other elements such as videos, graphs, photographs, charts, and websites. This is where I found my niche.</p>

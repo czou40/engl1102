@@ -29,13 +29,13 @@ class Plane extends React.Component {
     render() {
         var file = this.state.images[this.state.displaying].file;
         var description = this.state.images[this.state.displaying].description;
-        var title = this.state.images[this.state.displaying].file;
+        var title = this.state.images[this.state.displaying].title;
         return (
             <div className="plane">
                 <Card path={file}  title={title} description={description} />
-                <div class="controllers">
-                    <div class="prev-button-wrapper">
-                        <div class="prev-button" onClick={this.goToPrevious}></div>
+                <div className="controllers">
+                    <div className="prev-button-wrapper">
+                        <div className="prev-button" onClick={this.goToPrevious}></div>
                     </div>
                     <div className="next-button-wrapper">
                         <div className="next-button" onClick={this.goToNext}></div>
