@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2a41b98-8a8d-4691-8d94-373b297bfc42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/build/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/CMRotate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/IMG_0570.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.9c16ecc245f7b744afd21bceb977cfad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.f630c6e9.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.f630c6e9.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.ecb67c2e.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.ecb67c2e.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.27fe3abe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.27fe3abe.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/CMRotate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/hand-h.cur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/hand.cur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/images/img9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cm-rotate.js-master/cm-rotate.js-master/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plane.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/plane.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plane.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plane.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +88,7 @@
       <workItem from="1583784101588" duration="19198000" />
       <workItem from="1583860795090" duration="625000" />
       <workItem from="1583863486567" duration="17626000" />
-      <workItem from="1583967149018" duration="3863000" />
+      <workItem from="1583967149018" duration="4213000" />
     </task>
     <servers />
   </component>
@@ -164,22 +108,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583449216747" />
-    <state width="1515" height="89" key="GridCell.Tab.0.bottom" timestamp="1583975210810">
+    <state width="1515" height="89" key="GridCell.Tab.0.bottom" timestamp="1583975805346">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="89" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583975210810" />
-    <state width="1515" height="89" key="GridCell.Tab.0.center" timestamp="1583975210808">
+    <state width="1515" height="89" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583975805346" />
+    <state width="1515" height="89" key="GridCell.Tab.0.center" timestamp="1583975805346">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="89" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583975210808" />
-    <state width="1515" height="89" key="GridCell.Tab.0.left" timestamp="1583975210807">
+    <state width="1515" height="89" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583975805346" />
+    <state width="1515" height="89" key="GridCell.Tab.0.left" timestamp="1583975805345">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="89" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583975210807" />
-    <state width="1515" height="89" key="GridCell.Tab.0.right" timestamp="1583975210809">
+    <state width="1515" height="89" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583975805345" />
+    <state width="1515" height="89" key="GridCell.Tab.0.right" timestamp="1583975805346">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="89" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583975210809" />
+    <state width="1515" height="89" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583975805346" />
     <state width="1515" height="258" key="GridCell.Tab.1.bottom" timestamp="1583934493178">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -232,9 +176,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583968039984" />
-    <state x="37" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583778983744">
+    <state x="37" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583975456453">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="37" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583778983744" />
+    <state x="37" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583975456453" />
   </component>
 </project>
